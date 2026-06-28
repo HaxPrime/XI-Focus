@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+.vs/
+*.log
+settings.json
+
+*.zip
